@@ -36,4 +36,4 @@ The main purpose appears to be exploration and testing of digital logic design f
 
 ## License
 
-No explicit license file is present in the repository, so the project should be treated as unlicensed unless otherwise stated by the repository owner.
+[LICENSE](LICENSE.txt)
